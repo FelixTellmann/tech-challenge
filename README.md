@@ -1,20 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
 ## Tech Challenges
 
 1. Checkout a new `branch` of the Repository with your name
-2. Separate both challenges with at least a `commit` after each completing challenge 1 or create multiple branches prefixed with your name.
-3. At the end of the Challenge. Create a new `Pull Request` to the develop branch and assign a reviewer.
+2. At the end of the Challenge. Create a new `Pull Request` to the develop branch and assign a reviewer.
 
 
-## Dev Challenge 1
-(20min cap)
-
-Checkout the html in `/challenge-1/design-elements.html` The code is working but its in a terrible state. See if you can go through the code and fix it.
-
-
-## Dev Challenge 2
+## Todo list App
 (45min cap)
 
 Your challenge is to build out this todo app and get it looking as close to the design as possible.
